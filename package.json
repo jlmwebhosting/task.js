@@ -1,0 +1,24 @@
+{
+  "name": "task",
+  "version": "0.0.0",
+  "description": "tasks",
+  "main": "lib/task.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sykopomp/task.js"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "dherman@mozilla.org",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/sykopomp/task.js/issues"
+  }
+}
